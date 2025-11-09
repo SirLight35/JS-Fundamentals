@@ -1,7 +1,7 @@
 let arg = process.argv[2];
 
 if (arg) {
-  console.log("Argument Found");
+  console.log("Arguments found");
 } else {
-  console.log("Not Found");
+  console.log("No argument");
 }
