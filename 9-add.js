@@ -4,7 +4,7 @@ let con = parseInt(arg1) + parseInt(arg2);
 if (arg2) {
   console.log(con);
 } else if (arg1) {
-  console.log("Nan");
+  console.log("NaN");
 } else {
-  console.log("Nan");
+  console.log("NaN");
 }
