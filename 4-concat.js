@@ -4,7 +4,7 @@ let con = arg1 + " is " + arg2;
 if (arg2) {
   console.log(con);
 } else if (arg1) {
-  console.log(arg1 + " + undefined");
+  console.log(arg1 + "is undefined");
 } else {
   console.log("undefined is undefined");
 }
